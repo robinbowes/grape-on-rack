@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/intridea/grape-entity.git
+  remote: https://github.com/intridea/grape-entity.git
   revision: 9bf8464266784c830bc114b0b948541e41d959df
   specs:
     grape-entity (0.3.0)
@@ -7,7 +7,7 @@ GIT
       multi_json (>= 1.3.2)
 
 GIT
-  remote: git://github.com/intridea/grape.git
+  remote: https://github.com/intridea/grape.git
   revision: 0ecc1a177c34c6aa96ecab305c691e22cb3f8b1c
   specs:
     grape (0.6.0)
